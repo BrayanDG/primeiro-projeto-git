@@ -4,5 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso** Desenvolvimento de Software Multplataforma
-- **Aluno** [@BrayanDG](https://www.github.com/BrayanDG)
-
+- **Aluno** Brayan Garcia - Perfil do Github: [@BrayanDG](https://www.github.com/BrayanDG)
